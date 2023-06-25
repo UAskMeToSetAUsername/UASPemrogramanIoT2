@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/erick/AndroidStudioProjects/UASPemrogramanIoT2/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/erick/AndroidStudioProjects/UASPemrogramanIoT2/app/src/main/res/drawable/bg.xml" value="0.1" />
+        <entry key="..\:/Users/erick/AndroidStudioProjects/UASPemrogramanIoT2/app/src/main/res/drawable/gradient.xml" value="0.2405" />
+        <entry key="..\:/Users/erick/AndroidStudioProjects/UASPemrogramanIoT2/app/src/main/res/layout/activity_main.xml" value="0.11191335740072202" />
       </map>
     </option>
   </component>
